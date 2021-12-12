@@ -1,0 +1,414 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=watermelon+sugar&type=track&market=US&offset=0&limit=5",
+    "items": [
+
+      //item 1
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+              },
+              "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+              "id": "6KImCVD70vtIoJWnq6nGn3",
+              "name": "Harry Styles",
+              "type": "artist",
+              "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+          },
+          "href": "https://api.spotify.com/v1/albums/7xV2TzoaVc0ycW7fwBwAml",
+          "id": "7xV2TzoaVc0ycW7fwBwAml",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+              "width": 64
+            }
+          ],
+          "name": "Fine Line",
+          "release_date": "2019-12-13",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:7xV2TzoaVc0ycW7fwBwAml"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles",
+            "type": "artist",
+            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM11912587"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6UelLqGlWMcVH1E5c4H7lY",
+        "id": "6UelLqGlWMcVH1E5c4H7lY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Watermelon Sugar",
+        "popularity": 89,
+        "preview_url": "https://p.scdn.co/mp3-preview/0c51b5f7ed852504844feebfb4f4b7f099452662?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0R1QLpIXl2iDFHyDEwoEPV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0R1QLpIXl2iDFHyDEwoEPV",
+              "id": "0R1QLpIXl2iDFHyDEwoEPV",
+              "name": "Dovi Mok",
+              "type": "artist",
+              "uri": "spotify:artist:0R1QLpIXl2iDFHyDEwoEPV"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6jApCjCM8HXEiZGs8dbaYJ"
+          },
+          "href": "https://api.spotify.com/v1/albums/6jApCjCM8HXEiZGs8dbaYJ",
+          "id": "6jApCjCM8HXEiZGs8dbaYJ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27333c97fe8f9af1caf5e42b501",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0233c97fe8f9af1caf5e42b501",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485133c97fe8f9af1caf5e42b501",
+              "width": 64
+            }
+          ],
+          "name": "Watermelon Sugar (Dovi Mok Remix)",
+          "release_date": "2021-01-11",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6jApCjCM8HXEiZGs8dbaYJ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0R1QLpIXl2iDFHyDEwoEPV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0R1QLpIXl2iDFHyDEwoEPV",
+            "id": "0R1QLpIXl2iDFHyDEwoEPV",
+            "name": "Dovi Mok",
+            "type": "artist",
+            "uri": "spotify:artist:0R1QLpIXl2iDFHyDEwoEPV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206315,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZFYY2156955"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/048pPqrWZjbbQjmbpN9lIz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/048pPqrWZjbbQjmbpN9lIz",
+        "id": "048pPqrWZjbbQjmbpN9lIz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Watermelon Sugar - Dovi Mok Remix",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/c8e70a079f82ea1abb952e27c017114f979d4fa4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:048pPqrWZjbbQjmbpN9lIz"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+              },
+              "href": "https://api.spotify.com/v1/artists/1dABGukgZ8XKKOdd2rVSHM",
+              "id": "1dABGukgZ8XKKOdd2rVSHM",
+              "name": "Lofi Fruits Music",
+              "type": "artist",
+              "uri": "spotify:artist:1dABGukgZ8XKKOdd2rVSHM"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W"
+              },
+              "href": "https://api.spotify.com/v1/artists/2Ie3P7oklbSFxfrGtrkT9W",
+              "id": "2Ie3P7oklbSFxfrGtrkT9W",
+              "name": "Orange Stick",
+              "type": "artist",
+              "uri": "spotify:artist:2Ie3P7oklbSFxfrGtrkT9W"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6AQzCjZQK8acHJg4LcT7gR"
+          },
+          "href": "https://api.spotify.com/v1/albums/6AQzCjZQK8acHJg4LcT7gR",
+          "id": "6AQzCjZQK8acHJg4LcT7gR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27303353d8be064c828f3260369",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0203353d8be064c828f3260369",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485103353d8be064c828f3260369",
+              "width": 64
+            }
+          ],
+          "name": "Watermelon Sugar",
+          "release_date": "2020-06-12",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6AQzCjZQK8acHJg4LcT7gR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dABGukgZ8XKKOdd2rVSHM",
+            "id": "1dABGukgZ8XKKOdd2rVSHM",
+            "name": "Lofi Fruits Music",
+            "type": "artist",
+            "uri": "spotify:artist:1dABGukgZ8XKKOdd2rVSHM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Ie3P7oklbSFxfrGtrkT9W",
+            "id": "2Ie3P7oklbSFxfrGtrkT9W",
+            "name": "Orange Stick",
+            "type": "artist",
+            "uri": "spotify:artist:2Ie3P7oklbSFxfrGtrkT9W"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 91062,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBSMU8093770"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XA7Bci29bcWgqqX5uFEIJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0XA7Bci29bcWgqqX5uFEIJ",
+        "id": "0XA7Bci29bcWgqqX5uFEIJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Watermelon Sugar",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/dcce30a133adfdfcad5b3729c38887f2e86e64bf?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0XA7Bci29bcWgqqX5uFEIJ"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+              },
+              "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+              "id": "6KImCVD70vtIoJWnq6nGn3",
+              "name": "Harry Styles",
+              "type": "artist",
+              "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy"
+          },
+          "href": "https://api.spotify.com/v1/albums/659e2eKbsMH0vYCs5qgFmy",
+          "id": "659e2eKbsMH0vYCs5qgFmy",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737cf2b9825bb43083d123ac22",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027cf2b9825bb43083d123ac22",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517cf2b9825bb43083d123ac22",
+              "width": 64
+            }
+          ],
+          "name": "Watermelon Sugar",
+          "release_date": "2019-11-17",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:659e2eKbsMH0vYCs5qgFmy"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+            },
+            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles",
+            "type": "artist",
+            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM11912587"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1e9oZCCiX42nJl0AcqriVo",
+        "id": "1e9oZCCiX42nJl0AcqriVo",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Watermelon Sugar",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/0c51b5f7ed852504844feebfb4f4b7f099452662?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1e9oZCCiX42nJl0AcqriVo"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5viEX0YM7NUN3walfR4nq5"
+              },
+              "href": "https://api.spotify.com/v1/artists/5viEX0YM7NUN3walfR4nq5",
+              "id": "5viEX0YM7NUN3walfR4nq5",
+              "name": "Mnryx",
+              "type": "artist",
+              "uri": "spotify:artist:5viEX0YM7NUN3walfR4nq5"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/25Bjaxjs6BcGHjOzTJZVSD"
+          },
+          "href": "https://api.spotify.com/v1/albums/25Bjaxjs6BcGHjOzTJZVSD",
+          "id": "25Bjaxjs6BcGHjOzTJZVSD",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273760a09a723cc642d3ec4daeb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02760a09a723cc642d3ec4daeb",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851760a09a723cc642d3ec4daeb",
+              "width": 64
+            }
+          ],
+          "name": "Watermelon Sugar Remix",
+          "release_date": "2020-12-28",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:25Bjaxjs6BcGHjOzTJZVSD"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5viEX0YM7NUN3walfR4nq5"
+            },
+            "href": "https://api.spotify.com/v1/artists/5viEX0YM7NUN3walfR4nq5",
+            "id": "5viEX0YM7NUN3walfR4nq5",
+            "name": "Mnryx",
+            "type": "artist",
+            "uri": "spotify:artist:5viEX0YM7NUN3walfR4nq5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196702,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZDFP1873860"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4U3fokvOHd5jwQhIkFWopb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4U3fokvOHd5jwQhIkFWopb",
+        "id": "4U3fokvOHd5jwQhIkFWopb",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Watermelon Sugar Remix",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/5ed385475d3d2e8145a06166b8ecdc302ad803a8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4U3fokvOHd5jwQhIkFWopb"
+      }
+    ],
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/search?query=watermelon+sugar&type=track&market=US&offset=5&limit=5",
+    "offset": 0,
+    "previous": null,
+    "total": 902
+  }
+}
