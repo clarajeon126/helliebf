@@ -18,6 +18,6 @@
   "homepage": "https://github.com/clarajeon126/helliebf#readme",
   "dependencies": {
     "firebase": "^9.6.1",
-    "particles.js": "^2.0.0"
+    "particle.js": "^1.0.7"
   }
 }

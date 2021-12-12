@@ -2,8 +2,6 @@
   "tracks": {
     "href": "https://api.spotify.com/v1/search?query=watermelon+sugar&type=track&market=US&offset=0&limit=5",
     "items": [
-
-      //item 1
       {
         "album": {
           "album_type": "album",
